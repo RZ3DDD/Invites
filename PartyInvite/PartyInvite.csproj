@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>YSH.Invites</AssemblyName>
+    <RootNamespace>YSH.Invites.PartyInvite</RootNamespace>
+    <OutputType>Exe</OutputType>
+    <Authors>Yury Shchutsky</Authors>
+    <Company>YSH</Company>
+  </PropertyGroup>
+
+</Project>
